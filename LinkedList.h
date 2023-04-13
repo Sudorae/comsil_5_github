@@ -1,5 +1,5 @@
-#ifndef __LINKEDLIST__
-#define __LINKEDLIST__
+#ifndef __LINKEDLIST_
+#define __LINKEDLIST_
 
 #include <iostream>
 using namespace std;
