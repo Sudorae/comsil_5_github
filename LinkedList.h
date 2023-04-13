@@ -1,7 +1,7 @@
 #ifndef __LINKEDLIST__
 #define __LINKEDLIST__
-
 #include <iostream>
+
 using namespace std;
 
 //LinkedList Node
